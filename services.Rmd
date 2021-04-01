@@ -1,0 +1,23 @@
+---
+title: "Services"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+-	**Atmospheric chemistry**: Hazardous air pollutants (air toxics), volatile 
+organic compounds (VOCs), speciated particulate matter, near-road pollution
+-	**Interactive dashboard development**: R Shiny, Rmarkdown, and API development
+    + [EPA NCore dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/)
+    + [EPA PM FRM QA dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/)
+    + [EPA ozone QA dashboard](https://sti-r-shiny.shinyapps.io/ozone_dashboard/)
+-	**Monitoring and network services**: Study design, network assessment, risk assessment,
+community-scale monitoring, environmental justice
+- **Statistical analysis**: Regressions, source apportionment, hypothesis testing, cluster analysis, trend analysis, time-series analysis, geospatial analysis/GIS, distributions, model building, data mining
+- **Quality assurance**: Quality management plans (QMPs),  Quality assurance project plans (QAPPs), and automated QA/QC algorithms
+- **Training**: Statistics, R, atmospheric science, and community-monitoring
+
+```{r, Cholla, out.width = '50%', fig.align = 'center'}
+knitr::include_graphics('images/Cholla.jpg')
+```
