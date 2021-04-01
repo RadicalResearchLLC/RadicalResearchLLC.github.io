@@ -1,0 +1,1707 @@
+[
+	{
+		"id": "http://zotero.org/users/7770817/items/SY9DEKN8",
+		"type": "article-journal",
+		"abstract": "BackgroundAmbient measurements of hazardous air pollutants (air toxics) have been used to validate model-predicted concentrations of air toxics but have not been used to perform risk screening at the national level.ObjectivesWe used ambient concentrations of routinely measured air toxics to determine the relative importance of individual air toxics for chronic cancer and noncancer exposures.MethodsWe compiled 3-year averages for ambient measurement of air toxics collected at monitoring locations in the United States from 2003 through 2005. We then used national distributions of risk-weighted concentrations to identify the air toxics of most concern.ResultsConcentrations of benzene, carbon tetrachloride, arsenic, 1,3-butadiene, and acetaldehyde were above the 10−6 cancer risk level at most sites nationally with a high degree of confidence. Concentrations of tetrachloroethylene, ethylene oxide, acrylonitrile, and 1,4-dichlorobenzene were also often greater than the 10−6 cancer risk level, but we have less confidence in the estimated risk associated with these pollutants. Formaldehyde and chromium VI concentrations were either above or below the 10−6 cancer risk level, depending on the choice of agency-recommended 10−6 level. The method detection limits of eight additional pollutants were too high to rule out that concentrations were above the 10−6 cancer risk level. Concentrations of 52 compounds compared with chronic noncancer benchmarks indicated that only acrolein concentrations were greater than the noncancer reference concentration at most monitoring sites.ConclusionsMost pollutants with national site-level averages greater than health benchmarks were also pollutants of concern identified in modeled national-scale risk assessments. Current monitoring networks need more sensitive ambient measurement techniques to better characterize the air toxics problem in the United States.",
+		"container-title": "Environmental Health Perspectives",
+		"DOI": "10.1289/ehp.11861",
+		"issue": "5",
+		"journalAbbreviation": "Environmental Health Perspectives",
+		"note": "publisher: Environmental Health Perspectives",
+		"page": "790-796",
+		"source": "ehp.niehs.nih.gov (Atypon)",
+		"title": "Characterization of the Chronic Risk and Hazard of Hazardous Air Pollutants in the United States Using Ambient Monitoring Data",
+		"URL": "https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.11861",
+		"volume": "117",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "Michael"
+			},
+			{
+				"family": "O’Brien",
+				"given": "Theresa"
+			},
+			{
+				"literal": "Charrier Jessica G."
+			},
+			{
+				"literal": "Hafner Hilary R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/MKNU64BB",
+		"type": "article-journal",
+		"abstract": "Molecular hydrogen (H2) is the second most abundant trace gas in the atmosphere after methane1 (CH4). In the troposphere, the D/H ratio of H2 is enriched by 120‰ relative to the world's oceans2,3,4. This cannot be explained by the sources of H2 for which the D/H ratio has been measured to date (for example, fossil fuels and biomass burning)5,6. But the isotopic composition of H2 from its single largest source—the photochemical oxidation of methane—has yet to be determined. Here we show that the D/H ratio of stratospheric H2 develops enrichments greater than 440‰, the most extreme D/H enrichment observed in a terrestrial material. We estimate the D/H ratio of H2 produced from CH4 in the stratosphere, where production is isolated from the influences of non-photochemical sources and sinks, showing that the chain of reactions producing H2 from CH4 concentrates D in the product H2. This enrichment, which we estimate is similar on a global average in the troposphere, contributes substantially to the D/H ratio of tropospheric H2.",
+		"container-title": "Nature",
+		"DOI": "10.1038/nature01917",
+		"ISSN": "1476-4687",
+		"issue": "6951",
+		"language": "en",
+		"note": "number: 6951\npublisher: Nature Publishing Group",
+		"page": "918-921",
+		"source": "www.nature.com",
+		"title": "Extreme deuterium enrichment in stratospheric hydrogen and the global atmospheric budget of H 2",
+		"URL": "https://www.nature.com/articles/nature01917",
+		"volume": "424",
+		"author": [
+			{
+				"family": "Rahn",
+				"given": "Thom"
+			},
+			{
+				"family": "Eiler",
+				"given": "John M."
+			},
+			{
+				"family": "Boering",
+				"given": "Kristie A."
+			},
+			{
+				"family": "Wennberg",
+				"given": "Paul O."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Tyler",
+				"given": "Stanley"
+			},
+			{
+				"family": "Schauffler",
+				"given": "Sue"
+			},
+			{
+				"family": "Donnelly",
+				"given": "Stephen"
+			},
+			{
+				"family": "Atlas",
+				"given": "Elliot"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/Y3X4BLVZ",
+		"type": "article-journal",
+		"abstract": "From 2003 to 2009, whole air samples were collected at two sites in Edmonton and analyzed for over 77 volatile organic compounds (VOCs). VOCs were sampled in the downtown area (Central site) and an industrial area on the eastern side of the city (East site). Concentrations of most VOCs were highest at the East site, with an average total VOC mass concentration of 221 μg m−3. The average total VOC mass concentration at the Central site was 65 μg m−3. The United States Environmental Protection Agency's positive matrix factorization receptor model (EPA PMF) was used to apportion ambient concentrations of VOCs into eleven factors, which were associated with emissions sources. On average, 94 and 99% of the measured mass were apportioned by PMF at the East and Central site, respectively. Factors include transportation combustion (gasoline and diesel), industrial sources (industrial evaporative, industrial feedstock, gasoline production/storage, industrial chemical use), mixed mobile and industrial (gasoline evaporative, fugitive butane), a biogenic source, a natural gas related source, and a factor that was associated with global background pollutants transported into the area. Transportation sources accounted for more than half of the reconstructed VOC mass concentration at the Central site, but less than 10% of the reconstructed mass concentration at the East site. By contrast, industrial sources accounted for ten times more of the reconstructed VOC mass concentration at the East site than at the Central site and were responsible for approximately 75% of the reconstructed VOC mass concentration observed at the East site. Of the six industrial factors identified at the East site, four were linked to petrochemical industry production and storage. The two largest contributors to the reconstructed VOC mass concentration at the East site were associated with fugitive emissions of volatile species (butanes, pentanes, hexane, and cyclohexane); together, these two factors accounted for more than 50% of the reconstructed VOC mass concentration at the East site in contrast to less than 2% of the reconstructed mass concentration at the Central site. Natural gas related emissions accounted for 10%–20% of the reconstructed mass concentration at both sites. Biogenic emissions and VOCs associated with well-mixed global background were less than 10% of the reconstructed VOC mass concentration at the Central site and less than 3% of the reconstructed mass concentration at the East site.",
+		"container-title": "Atmospheric Environment",
+		"DOI": "10.1016/j.atmosenv.2013.09.016",
+		"ISSN": "1352-2310",
+		"journalAbbreviation": "Atmospheric Environment",
+		"language": "en",
+		"page": "504-516",
+		"source": "ScienceDirect",
+		"title": "Source apportionment of volatile organic compounds measured in Edmonton, Alberta",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1352231013007048",
+		"volume": "81",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Aklilu",
+				"given": "Yayne-Abeba"
+			},
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "Lyder",
+				"given": "David A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/M3G9QCGJ",
+		"type": "article-journal",
+		"abstract": "Ambient measurements of hazardous air pollutants (HAPs, air toxics) collected in the United States from 1990 to 2005 were analyzed for diurnal, seasonal, and/or annual variability and trends. Visual and statistical analyses were used to identify and quantify temporal variations in air toxics at national and regional levels. Sufficient data were available to analyze diurnal variability for 14 air toxics, seasonal variability for 24 air toxics, and annual trends for 26 air toxics. Four diurnal variation patterns were identified and labeled invariant, nighttime peak, morning peak, and daytime peak. Three distinct seasonal patterns were identified and labeled invariant, cool, and warm. Multiple air toxics showed consistent decreasing trends over three trend periods, 1990–2005, 1995–2005, and 2000–2005. Trends appeared to be relatively consistent within chemically similar pollutant groups. Hydrocarbons such as benzene, 1,3-butadiene, styrene, xylene, and toluene decreased by approximately 5% or more per year at more than half of all monitoring sites. Concentrations of carbonyl compounds such as formaldehyde, acetaldehyde, and propionaldehyde were equally likely to have increased or decreased at monitoring sites. Chlorinated volatile organic compounds (VOCs) such as tetrachloroethylene, dichloromethane, and methyl chloroform decreased at more than half of all monitoring sites, but decreases among these species were much more variable than among the hydrocarbons. Lead particles decreased in concentration at most monitoring sites, but trends in other metals were not consistent over time.",
+		"container-title": "Atmospheric Environment",
+		"DOI": "10.1016/j.atmosenv.2007.05.037",
+		"ISSN": "1352-2310",
+		"issue": "34",
+		"journalAbbreviation": "Atmospheric Environment",
+		"language": "en",
+		"page": "7180-7194",
+		"source": "ScienceDirect",
+		"title": "Temporal variability of selected air toxics in the United States",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1352231007004840",
+		"volume": "41",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Hafner",
+				"given": "Hilary R."
+			},
+			{
+				"family": "Chinkin",
+				"given": "Lyle R."
+			},
+			{
+				"family": "Charrier",
+				"given": "Jessica G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/7QGN9MFT",
+		"type": "article-journal",
+		"abstract": "<p><strong class=\"journal-contentHeaderColor\">Abstract.</strong> Emissions from oil and natural gas development during winter in the Upper Green River basin of Wyoming are known to drive episodic ozone (O<sub>3</sub>) production. Contrasting O<sub>3</sub> distributions were observed in the winters of 2011 and 2012, with numerous episodes (hourly O<sub>3</sub> &ge; 85 ppbv) in 2011 compared to none in 2012. The lack of O<sub>3</sub> episodes in 2012 coincided with a reduction in measured ambient levels of total non-methane hydrocarbons (NMHC). Measurements of speciated NMHC, and other air quality parameters, were performed to better understand emission sources and to determine which compounds are most active in promoting O<sub>3</sub> formation. Positive matrix factorization (PMF) analyses of the data were carried out to help achieve these goals. PMF analyses revealed three contributing factors that were identified with different emission source types: factor 1, combustion/traffic; factor 2, fugitive natural gas; and factor 3, fugitive condensate. Compositional signatures of the three contributing factors were identified through comparison with independently derived emission source profiles. Fugitive emissions of natural gas and of condensate were the two principal emission source types for NMHC. A water treatment and recycling facility was found to be a significant source of NMHC that are abundant in condensate, in particular toluene and <i>m</i>+<i>p</i>-xylene. Emissions from water treatment have an influence upon peak O<sub>3</sub> mixing ratios at downwind measurement sites.</p>",
+		"container-title": "Atmospheric Chemistry and Physics",
+		"DOI": "10.5194/acp-15-3527-2015",
+		"ISSN": "1680-7316",
+		"issue": "6",
+		"language": "English",
+		"note": "publisher: Copernicus GmbH",
+		"page": "3527-3542",
+		"source": "acp.copernicus.org",
+		"title": "Influence of oil and gas field operations on spatial and temporal distributions of atmospheric non-methane hydrocarbons and their effect on ozone formation in winter",
+		"URL": "https://acp.copernicus.org/articles/15/3527/2015/",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Field",
+				"given": "R. A."
+			},
+			{
+				"family": "Soltis",
+				"given": "J."
+			},
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			},
+			{
+				"family": "Murphy",
+				"given": "S."
+			},
+			{
+				"family": "Montague",
+				"given": "D. C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					3,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/ZPHGEZSU",
+		"type": "article-journal",
+		"container-title": "Environmental Health Perspectives",
+		"DOI": "10.1289/EHP8044",
+		"ISSN": "0091-6765, 1552-9924",
+		"issue": "3",
+		"journalAbbreviation": "Environ Health Perspect",
+		"language": "en",
+		"page": "EHP8044, 037008",
+		"source": "DOI.org (Crossref)",
+		"title": "An Examination of National Cancer Risk Based on Monitored Hazardous Air Pollutants",
+		"URL": "https://ehp.niehs.nih.gov/doi/10.1289/EHP8044",
+		"volume": "129",
+		"author": [
+			{
+				"family": "Weitekamp",
+				"given": "Chelsea A."
+			},
+			{
+				"family": "Lein",
+				"given": "McKayla"
+			},
+			{
+				"family": "Strum",
+				"given": "Madeleine"
+			},
+			{
+				"family": "Morris",
+				"given": "Mark"
+			},
+			{
+				"family": "Palma",
+				"given": "Ted"
+			},
+			{
+				"family": "Smith",
+				"given": "Darcie"
+			},
+			{
+				"family": "Kerr",
+				"given": "Lukas"
+			},
+			{
+				"family": "Stewart",
+				"given": "Michael J."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/RLXIP87M",
+		"type": "article-journal",
+		"abstract": "The U.S. Clean Air Act identifies 188 hazardous air pollutants (HAPs), or “air toxics,” associated with adverse human health effects. Of these air toxics, 18 were targeted as the most important in a 10–City Pilot Study conducted in 2001 and 2002 as part of the National Air Toxics Trend Sites Program. In the present analysis, measurements available from monitoring networks in North America were used to estimate boundary layer background concentrations and trends of these 18 HAPs. The background concentrations reported in this study are as much as 85% lower than those reported in recent studies of HAP concentrations. Background concentrations of some volatile organic compounds were analyzed for trends at the 95% confidence level; only carbon tetrachloride (CCI4) and tetrachloroethylene decreased significantly in recent years. Remote background concentrations were compared with the one-in–a-million (i.e., 10–6) cancer benchmarks to determine the possible causes of health risk in rural and remote areas; benzene, chloroform, formaldehyde, and chromium (Cr) fine particulate were higher than cancer benchmark values. In addition, remote background concentrations were found to contribute between 5% and 99% of median urban concentrations.",
+		"container-title": "Journal of the Air & Waste Management Association",
+		"DOI": "10.1080/10473289.2006.10464436",
+		"ISSN": "1096-2247",
+		"issue": "1",
+		"note": "publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/10473289.2006.10464436",
+		"page": "3-11",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Background Concentrations of 18 Air Toxics for North America",
+		"URL": "https://doi.org/10.1080/10473289.2006.10464436",
+		"volume": "56",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Hafner",
+				"given": "Hilary R."
+			},
+			{
+				"family": "Montzka",
+				"given": "Stephen A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/GXLGH9XR",
+		"type": "article-journal",
+		"abstract": "Measurements of δ13C and δD of atmospheric CH4 from whole air samples collected in the upper troposphere and lower stratosphere aboard the NASA ER-2 aircraft during the SOLVE (2000), POLARIS (1997), and STRAT (1996) campaigns are reported. Samples cover latitudes from 1°S to 89°N and altitudes from 11 to 21 km, providing CH4 mixing ratios that range from 1744 to 716 ppbv. Measurements of isotope ratios were made by continuous-flow gas chromatography isotope ratio mass spectrometry which provides high-precision analyses on 60 ml aliquots of air. These measurements comprise the first upper atmosphere isotopic CH4 data set to date using this technique and the most extensive with respect to latitude and season in any case. Values of δ13C-CH4 on the V-PDB scale range from −47.28‰ near the tropical tropopause to −34.05‰ in the high northern latitude stratosphere. Values of δD on the V-SMOW scale range from −90.9‰ to +26.4‰. Correlations of isotope ratios with CH4 mixing ratios show enrichment in the heavy isotopes as CH4 mixing ratios decrease due to kinetic isotope effects associated with oxidation by reaction with OH, Cl, and O(1D). Empirical fractionation factors are found to be highly dependent on the range of CH4 mixing ratio considered, increasing with decreasing mixing ratio. Systematic nonlinearity in a Rayleigh fractionation model suggests a range of stratospheric fractionation factors, αCstrat = 1.0108 ± 0.0004 to 1.0204 ± 0.0004 (2σ) and αHstrat = 1.115 ± 0.008 to 1.198 ± 0.008 (2σ), from high to low CH4 mixing ratio, respectively. The variation in α over the range in mixing ratios reflect changes in partitioning between CH4 sink reactions in different regions of the stratosphere. In Part 1, these new high-precision observations are discussed and compared with other stratospheric and tropospheric isotope measurements. In Part 2 [McCarthy et al., 2003] the observations are compared with 2-D model results, and implications for the kinetic isotope effects for reactions with OH, Cl, and O(1D) are discussed.",
+		"container-title": "Journal of Geophysical Research: Atmospheres",
+		"DOI": "https://doi.org/10.1029/2002JD003042",
+		"ISSN": "2156-2202",
+		"issue": "D15",
+		"language": "en",
+		"note": "_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2002JD003042",
+		"source": "Wiley Online Library",
+		"title": "Carbon and hydrogen isotopic compositions of stratospheric methane: 1. High-precision observations from the NASA ER-2 aircraft",
+		"title-short": "Carbon and hydrogen isotopic compositions of stratospheric methane",
+		"URL": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2002JD003042",
+		"volume": "108",
+		"author": [
+			{
+				"family": "Rice",
+				"given": "A. L."
+			},
+			{
+				"family": "Tyler",
+				"given": "S. C."
+			},
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			},
+			{
+				"family": "Boering",
+				"given": "K. A."
+			},
+			{
+				"family": "Atlas",
+				"given": "E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/VE4BMQTY",
+		"type": "article-journal",
+		"abstract": "Air quality data collected in the California Regional PM10/PM2.5 Air Quality Study (CRPAQS) are analyzed to qualitatively assess the processes affecting secondary aerosol formation in the San Joaquin Valley (SJV). This region experiences some of the highest fine particulate matter (PM2.5) mass concentrations in California (≤188 μg/m3 24-hr average), and secondary aerosol components (as a group) frequently constitute over half of the fine aerosol mass in winter. The analyses are based on 15 days of high-frequency filter and canister measurements and several months of wintertime continuous gas and aerosol measurements. The phase-partitioning of nitrogen oxide (NOx)-related nitrogen species and carbonaceous species shows that concentrations of gaseous precursor species are far more abundant than measured secondary aerosol nitrate or estimated secondary organic aerosols. Comparisons of ammonia and nitric acid concentrations indicate that ammonium nitrate formation is limited by the availability of nitric acid rather than ammonia. Time-resolved aerosol nitrate data collected at the surface and on a 90-m tower suggest that both the daytime and nighttime nitric acid formation pathways are active, and entrainment of aerosol nitrate formed aloft at night may explain the spatial homogeneity of nitrate in the SJV. NOx and volatile organic compound (VOC) emissions plus background O3 levels are expected to determine NOx oxidation and nitric acid production rates, which currently control the ammonium nitrate levels in the SJV. Secondary organic aerosol formation is significant in winter, especially in the Fresno urban area. Formation of secondary organic aerosol is more likely limited by the rate of VOC oxidation than the availability of VOC precursors in winter.",
+		"container-title": "Journal of the Air & Waste Management Association",
+		"DOI": "10.1080/10473289.2006.10464573",
+		"ISSN": "1096-2247",
+		"issue": "12",
+		"note": "publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/10473289.2006.10464573",
+		"page": "1679-1693",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Processes Influencing Secondary Aerosol Formation in the San Joaquin Valley during Winter",
+		"URL": "https://doi.org/10.1080/10473289.2006.10464573",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Lurmann",
+				"given": "Frederick W."
+			},
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Roberts",
+				"given": "Paul T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/NEWZK5JP",
+		"type": "article-journal",
+		"abstract": "New high-precision measurements of the carbon and hydrogen isotopic compositions of stratospheric CH4 made on whole air samples collected aboard the NASA ER-2 aircraft are compared with results from the Lawrence Livermore National Laboratory 2-D model. Model runs incorporating sets of experimentally determined kinetic isotope effects (KIEs) for the reactions of CH4 with each of the oxidants OH, O(1D), and Cl are examined with the goals of determining (1) how well the 2-D model can reproduce the observations for both the carbon and hydrogen isotopic compositions, (2) what factors are responsible for the observed increase in the apparent isotopic fractionation factors with decreasing methane mixing ratios, and (3) how sensitive the modeled isotopic compositions are to various experimentally determined KIEs. Bound by estimates of the effects of uncertainties in model chemistry and transport on isotopic compositions, we then examine the constraints the ER-2 observations place on values for the KIEs. For the carbon KIE for reaction of CH4 with O(1D), for example, the analysis of model results and observations favors the larger of the experimental values, 1.013, over a value of 1.001. These analyses also suggest that intercomparisons of results from different models using a given set of KIEs may be useful as a new diagnostic of model-model differences in integrated chemistry and transport.",
+		"container-title": "Journal of Geophysical Research: Atmospheres",
+		"DOI": "https://doi.org/10.1029/2002JD003183",
+		"ISSN": "2156-2202",
+		"issue": "D15",
+		"language": "en",
+		"note": "_eprint: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2002JD003183",
+		"source": "Wiley Online Library",
+		"title": "Carbon and hydrogen isotopic compositions of stratospheric methane: 2. Two-dimensional model results and implications for kinetic isotope effects",
+		"title-short": "Carbon and hydrogen isotopic compositions of stratospheric methane",
+		"URL": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2002JD003183",
+		"volume": "108",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			},
+			{
+				"family": "Boering",
+				"given": "K. A."
+			},
+			{
+				"family": "Rice",
+				"given": "A. L."
+			},
+			{
+				"family": "Tyler",
+				"given": "S. C."
+			},
+			{
+				"family": "Connell",
+				"given": "P."
+			},
+			{
+				"family": "Atlas",
+				"given": "E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/H2WL6FI7",
+		"type": "article-journal",
+		"container-title": "Environmental Science & Technology",
+		"DOI": "10.1021",
+		"issue": "18",
+		"language": "en",
+		"page": "7",
+		"source": "Zotero",
+		"title": "Particulate Matter: A Strategic Vision for Transportation Related Research",
+		"volume": "40",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Eisinger",
+				"given": "Douglas"
+			},
+			{
+				"family": "Hafner",
+				"given": "Hilary R."
+			},
+			{
+				"family": "Black",
+				"given": "Kevin N"
+			},
+			{
+				"family": "Clark",
+				"given": "Nigel"
+			},
+			{
+				"family": "McMurry",
+				"given": "Peter"
+			},
+			{
+				"family": "Winer",
+				"given": "Arthur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					9,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/G4TL2QHP",
+		"type": "article-journal",
+		"container-title": "Journal of Geophysical Research",
+		"DOI": "10.1029/2003JD004003",
+		"ISSN": "0148-0227",
+		"issue": "D7",
+		"journalAbbreviation": "J. Geophys. Res.",
+		"language": "en",
+		"page": "D07304",
+		"source": "DOI.org (Crossref)",
+		"title": "The hydrogen isotopic composition of water vapor entering the stratosphere inferred from high-precision measurements of δD-CH <sub>4</sub> and δD-H <sub>2</sub>",
+		"URL": "http://doi.wiley.com/10.1029/2003JD004003",
+		"volume": "109",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/HGUHQX5Z",
+		"type": "article-journal",
+		"abstract": "Potential energy curves for NO and NOy were calculated at the QCISD, QCISDŽT., CCSD and CCSDŽT. levels using aug-cc-pVDZ and aug-cc-pVTZ basis sets. The curves were fit with a modified Morse potential and rovibrational eigenvalues were extracted using TRIATOM software. The electron affinity of NO and the spectroscopic constants of both species were then determined. Better than 97% accuracy for the electron affinity was obtained for the QCISD, QCISDŽT. and CCSDŽT. techniques combined with the aug-cc-pVTZ basis set. It was determined that NOy is stable by virtue of zero-point energy only. q 1998 Published by Elsevier Science B.V. All rights reserved.",
+		"container-title": "Chemical Physics Letters",
+		"DOI": "10.1016/S0009-2614(98)00408-4",
+		"ISSN": "00092614",
+		"issue": "1-2",
+		"journalAbbreviation": "Chemical Physics Letters",
+		"language": "en",
+		"page": "156-159",
+		"source": "DOI.org (Crossref)",
+		"title": "An accurate ab initio calculation of the electron affinity of NO",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0009261498004084",
+		"volume": "289",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "M.Cornelius"
+			},
+			{
+				"family": "Allington",
+				"given": "James W.R"
+			},
+			{
+				"family": "Griffith",
+				"given": "K.S"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/AJPAUGR7",
+		"type": "article-journal",
+		"abstract": "Concern for the exposure of children attending schools located near busy roadways to toxic, traffic-related air pollutants has raised questions regarding the environmental benefits of advanced heating, ventilation, and air-conditioning (HVAC) filtration systems for near-road pollution. Levels of black carbon and gaseous pollutants were measured at three indoor classroom sites and at seven outdoor monitoring sites at Las Vegas schools. Initial HVAC filtration systems effected a 31–66% reduction in black carbon particle concentrations inside three schools compared with ambient air concentrations. After improved filtration systems were installed, black carbon particle concentrations were reduced by 74–97% inside three classrooms relative to ambient air concentrations. Average black carbon particle concentrations inside the schools with improved filtration systems were lower than typical ambient Las Vegas concentrations by 49–96%. Gaseous pollutants were higher indoors than outdoors. The higher indoor concentrations most likely originated at least partially from indoor sources, which were not targeted as part of this intervention.",
+		"container-title": "Indoor Air",
+		"DOI": "https://doi.org/10.1111/ina.12015",
+		"ISSN": "1600-0668",
+		"issue": "3",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ina.12015",
+		"page": "196-207",
+		"source": "Wiley Online Library",
+		"title": "Filtration effectiveness of HVAC systems at near-roadway schools",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12015",
+		"volume": "23",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			},
+			{
+				"family": "Ludwig",
+				"given": "J. F."
+			},
+			{
+				"family": "Brown",
+				"given": "S. G."
+			},
+			{
+				"family": "Vaughn",
+				"given": "D. L."
+			},
+			{
+				"family": "Roberts",
+				"given": "P. T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/53B5XUNA",
+		"type": "article-journal",
+		"abstract": "Air quality monitoring was conducted at a rural site with a tower in the middle of California’s San Joaquin Valley (SJV) and at elevated sites in the foothills and mountains surrounding the SJV for the California Regional PM10/ PM2.5 Air Quality Study. Measurements at the surface and on a tower at 90 m were collected in Angiola, CA, from December 2000 through February 2001 and included hourly black carbon (BC), particle counts from optical particle counters, nitric oxide, ozone, temperature, relative humidity, wind speed, and direction. Boundary site measurements were made primarily using 24-hr integrated particulate matter (PM) samples. These measurements were used to understand the vertical variations of PM and PM precursors, the effect of stratiﬁcation in the winter on concentrations and chemistry aloft and at the surface, and the impact of aloft-versus-surface transport on PM concentrations. Vertical variations of concentrations differed among individual species. The stratiﬁcation may be important to atmospheric chemistry processes, particularly nighttime nitrate formation aloft, because NO2 appeared to be oxidized by ozone in the stratiﬁed aloft layer. Additionally, increases in accumulation-mode particle concentrations in the aloft layer during a ﬁne PM (PM2.5) episode corresponded with increases in aloft nitrate, demonstrating the likelihood of an aloft nighttime nitrate formation mechanism. Evidence of local transport at the surface and regional transport aloft was found; transport processes also varied among the species. The distribution of BC appeared to be regional, and BC was often uniformly mixed vertically. Overall, the combination of time-resolved tower and surface measurements provided important insight into PM stratiﬁcation, formation, and transport.",
+		"container-title": "Journal of the Air & Waste Management Association",
+		"DOI": "10.1080/10473289.2006.10464583",
+		"ISSN": "1096-2247, 2162-2906",
+		"issue": "9",
+		"journalAbbreviation": "Journal of the Air & Waste Management Association",
+		"language": "en",
+		"page": "1267-1277",
+		"source": "DOI.org (Crossref)",
+		"title": "Wintertime Vertical Variations in Particulate Matter (PM) and Precursor Concentrations in the San Joaquin Valley during the California Regional Coarse PM/Fine PM Air Quality Study",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/10473289.2006.10464583",
+		"volume": "56",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "Hyslop",
+				"given": "Nicole P."
+			},
+			{
+				"family": "Roberts",
+				"given": "Paul T."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Lurmann",
+				"given": "Frederick W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/JD7725KD",
+		"type": "article-journal",
+		"abstract": "Kineticisotopeeffects(KIEs) for theoxidationof largeas50% [HEIN97], duein partto sparsemeasurements CH4byOH,C1a, ndO(•D)wereincorporaitnetdoa2Dmodel of•3CH4.Long-terombservatioonf•s3CH4atthesurface of the atmosphereto examine how sensitivethe carbon arebecomingincreasinglayvailable[e.g.,Quayet al., 1999], isotopiccompositioonf CH4in thefreetropospheries to three however, which should decrease uncertainties due to influences:realistic stratosphericchemistryand transport, undersamplinogf theatmosphere. tropospheriCc 1 chemistrya, nd use of new, experimentally- In addition, all of the various CH4 sinks are now known to determineKdIEsfortheOHandO(•D)sinksA. t steady-stateh, avesubstantiaklineticisotopeeffects(KIEs), someof which our resultsindicatethat stratospherichemistryandtransport havenot beenincludedin earlierinversemodelsor may not enrichtroposphe•rI3icCH4by0.5to0.6%0tr,opospheCri1c be includedaccuratelyin more recentmodels. Oxidationof chemistarsymodeleednriche•3sCH4by-0.3%o,atnhdenew CH4byOH,C1,andO(ID)accounftosr-95%of thetotal KIE fortheOH sinkdepletemsodelegdloba•lI3CH4by sink.Becaustheerateconstanfotsrthe•2CHi4sotopomaerer >1%o.Ignoringthestratospher(eandC1chemistryin general) largerthanthosefor •3CH4(i.e., [k•2CH4/k•3CH4]t>hle), in modelsthereforehappensto partiallycompensatfeor useof isotopiccompositionof the remainingCH4 in the atmosphere thepreviouslyacceptedKIE for OH whencomparisonwsith becomesheavier as CH4 is oxidized. The discoveryof a observatioonfsfreetroposphe•r3icCH4are made. In surprisingly large KIE in the reaction of C1 with CH4 contrasti,ncludingonly oneof theseinfluencesincreasesthe [Saueressiget al., 1995; seeTable 1] motivatedresearchinto error relativeto includingnone. Thus, all 3 effectsare of CH4's stratosphericsinks [e.g., Bergamaschiet al., 1996 sufficientmagnitudeto warrant their inclusionin inverse (BERG96);Gupta et al., 1996 (GUPTA96)] due to the modelsin orderto reduceuncertaintiesin the CH4 budget. abundanceof atomic C1 in the CFC-perturbedstratosphere.",
+		"container-title": "Geophysical Research Letters",
+		"DOI": "10.1029/2001GL013159",
+		"ISSN": "00948276",
+		"issue": "19",
+		"journalAbbreviation": "Geophys. Res. Lett.",
+		"language": "en",
+		"page": "3657-3660",
+		"source": "DOI.org (Crossref)",
+		"title": "Isotopic fractionation of methane in the stratosphere and its effect on free tropospheric isotopic compositions",
+		"URL": "http://doi.wiley.com/10.1029/2001GL013159",
+		"volume": "28",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			},
+			{
+				"family": "Connell",
+				"given": "P."
+			},
+			{
+				"family": "Boering",
+				"given": "K. A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/RK9SFWIE",
+		"type": "article-journal",
+		"container-title": "Journal of Geophysical Research",
+		"DOI": "10.1029/2006JD007403",
+		"ISSN": "0148-0227",
+		"issue": "D19",
+		"journalAbbreviation": "J. Geophys. Res.",
+		"language": "en",
+		"page": "D19302",
+		"source": "DOI.org (Crossref)",
+		"title": "Modeling the photochemical origins of the extreme deuterium enrichment in stratospheric H <sub>2</sub>",
+		"URL": "http://doi.wiley.com/10.1029/2006JD007403",
+		"volume": "112",
+		"author": [
+			{
+				"family": "Mar",
+				"given": "Kathleen A."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Connell",
+				"given": "Peter"
+			},
+			{
+				"family": "Boering",
+				"given": "Kristie A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					10,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/27BHNP65",
+		"type": "article-journal",
+		"abstract": "Water plays a major role in the chemistry and radiative budget of the stratosphere. Air enters the stratosphere predominantly in the tropics, where the very low temperatures around the tropopause constrain water vapour mixing ratios to a few parts per million. Observations of stratospheric water vapour show a large positive long-term trend, which can not be explained by change in tropopause temperatures. Trends in the partitioning between vapour and ice of water entering the stratosphere have been suggested to resolve this conundrum. We present measurements of stratospheric H2O, HDO, CH4 and CH3D in the period 1991–2007 to evaluate this hypothesis. Because of fractionation processes during phase changes, the hydrogen isotopic composition of H2O is a sensitive indicator of changes in the partitioning of vapour and ice. We ﬁnd that the seasonal variations of H2O are mirrored in the variation of the ratio of HDO to H2O with a slope of the correlation consistent with water entering the stratosphere mainly as vapour. The variability in the fractionation over the entire observation period is well explained by variations in H2O. The isotopic data allow concluding that the trend in ice arising from particulate water is no more than (0.01 ± 0.13) ppmv/decade in the observation period. Our observations suggest that between 1991 and 2007 the contribution from changes in particulate water transported through the tropopause plays only a minor role in altering in the amount of water entering the stratosphere.",
+		"container-title": "Atmos. Chem. Phys.",
+		"language": "en",
+		"page": "7",
+		"source": "Zotero",
+		"title": "Trend in ice moistening the stratosphere – constraints from isotope data of water and methane",
+		"author": [
+			{
+				"family": "Notholt",
+				"given": "J"
+			},
+			{
+				"family": "Toon",
+				"given": "G C"
+			},
+			{
+				"family": "Fueglistaler",
+				"given": "S"
+			},
+			{
+				"family": "Wennberg",
+				"given": "P O"
+			},
+			{
+				"family": "Irion",
+				"given": "F W"
+			},
+			{
+				"family": "McCarthy",
+				"given": "M"
+			},
+			{
+				"family": "Scharringhausen",
+				"given": "M"
+			},
+			{
+				"family": "Rhee",
+				"given": "T Siek"
+			},
+			{
+				"family": "Kleinbohl",
+				"given": "A"
+			},
+			{
+				"family": "Velazco",
+				"given": "V"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/ZS4HWDCM",
+		"type": "article-journal",
+		"container-title": "Retrieved July",
+		"page": "2007",
+		"source": "Google Scholar",
+		"title": "Ambient air monitoring network assessment guidance, analytical techniques for technical assessments of ambient air monitoring networks",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Raffuse",
+				"given": "S. M."
+			},
+			{
+				"family": "Sullivan",
+				"given": "D. C."
+			},
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			},
+			{
+				"family": "Penfold",
+				"given": "B. M."
+			},
+			{
+				"family": "Hafner",
+				"given": "H. R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/B7KE3SZB",
+		"type": "article-journal",
+		"abstract": "The geometries and vibrational frequencies of both N2O and N2O·– were calculated at the QCISD and QCISD(T) levels of theory using aug-cc-pVDZ and aug-cc-pVTZ basis sets. The electron affinity of N2O was determined to be −0.15 eV. This work corroborates an earlier G2 study and suggests that the currently accepted value for the electron affinity, 0.22eV, is in error. This study represents the best calculation to date for the geometry and vibrational frequencies of N2O·−",
+		"container-title": "Molecular Physics",
+		"DOI": "10.1080/00268979909483116",
+		"ISSN": "0026-8976",
+		"issue": "12",
+		"note": "publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/00268979909483116",
+		"page": "1735-1737",
+		"source": "Taylor and Francis+NEJM",
+		"title": "A quadratic configuration interaction study of N2O and N2O·−",
+		"URL": "https://doi.org/10.1080/00268979909483116",
+		"volume": "96",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "M. CORNELIUS"
+			},
+			{
+				"family": "Allington",
+				"given": "JAMES W. R."
+			},
+			{
+				"family": "Sullivan",
+				"given": "K. O."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1999",
+					6,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/X7I92NQJ",
+		"type": "article-journal",
+		"abstract": "Data analysis and modeling were performed to characterize the spatial and temporal variability of wintertime transport and dispersion processes and the impact of these processes on particulate matter (PM) concentrations in the California San Joaquin Valley (SJV). Radar wind proﬁler (RWP) and radio acoustic sounding system (RASS) data collected from 18 sites throughout Central California were used to estimate hourly mixing heights for a 3-month period and to create case studies of high-resolution diagnostic wind ﬁelds, which were used for trajectory and dispersion analyses. Data analyses show that PM episodes were characterized by an upper-level ridge of high pressure that generally produced light winds through the entire depth of the atmospheric boundary layer and low mixing heights compared with nonepisode days. Peak daytime mixing heights during episodes were ϳ400 m above ground level (agl) compared with ϳ800 m agl during nonepisodes. These episode/nonepisode differences were observed throughout the SJV. Dispersion modeling indicates that the range of inﬂuence of primary PM emitted in major population centers within the SJV ranged from ϳ15 to 50 km. Trajectory analyses revealed that little intrabasin pollutant transport occurred among major population centers in the SJV; however, interbasin transport from the northern SJV and Sacramento regions into the San Francisco Bay Area (SFBA) was often observed. In addition, this analysis demonstrates the usefulness of integrating RWP/RASS measurements into data analyses and modeling to improve the understanding of meteorological processes that impact pollution, such as aloft transport and boundary layer evolution.",
+		"container-title": "Journal of the Air & Waste Management Association",
+		"DOI": "10.1080/10473289.2006.10464509",
+		"ISSN": "1096-2247, 2162-2906",
+		"issue": "7",
+		"journalAbbreviation": "Journal of the Air & Waste Management Association",
+		"language": "en",
+		"page": "961-976",
+		"source": "DOI.org (Crossref)",
+		"title": "Transport and Dispersion during Wintertime Particulate Matter Episodes in the San Joaquin Valley, California",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/10473289.2006.10464509",
+		"volume": "56",
+		"author": [
+			{
+				"family": "MacDonald",
+				"given": "Clinton P."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Dye",
+				"given": "Timothy S."
+			},
+			{
+				"family": "Wheeler",
+				"given": "Neil J.M."
+			},
+			{
+				"family": "Hafner",
+				"given": "Hilary R."
+			},
+			{
+				"family": "Roberts",
+				"given": "Paul T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/LHREL392",
+		"type": "article-journal",
+		"container-title": "Journal of Geophysical Research: Atmospheres",
+		"DOI": "10.1002/jgrd.50862",
+		"ISSN": "2169897X",
+		"issue": "19",
+		"journalAbbreviation": "J. Geophys. Res. Atmos.",
+		"language": "en",
+		"page": "11,242-11,255",
+		"source": "DOI.org (Crossref)",
+		"title": "High-resolution MODIS aerosol retrieval during wildfire events in California for use in exposure assessment: HIGH-RESOLUTION MODIS AOD FOR WILDFIRES",
+		"title-short": "High-resolution MODIS aerosol retrieval during wildfire events in California for use in exposure assessment",
+		"URL": "http://doi.wiley.com/10.1002/jgrd.50862",
+		"volume": "118",
+		"author": [
+			{
+				"family": "Raffuse",
+				"given": "Sean M."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Craig",
+				"given": "Kenneth J."
+			},
+			{
+				"family": "DeWinter",
+				"given": "Jennifer L."
+			},
+			{
+				"family": "Jumbam",
+				"given": "Loayeh K."
+			},
+			{
+				"family": "Fruin",
+				"given": "Scott"
+			},
+			{
+				"family": "James Gauderman",
+				"given": "W."
+			},
+			{
+				"family": "Lurmann",
+				"given": "Frederick W."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/CCS4HGXG",
+		"type": "article-journal",
+		"abstract": "Low-cost sensors can provide insight on the spatio-temporal variability of air pollution, provided that sufficient efforts are made to ensure data quality. Here, 19 AirBeam particulate matter (PM) sensors were deployed from December 2016 to January 2017 to determine the spatial variability of PM2.5 in Sacramento, California. Prior to, and after, the study, the 19 sensors were deployed and collocated at a regulatory air monitoring site. The sensors demonstrated a high degree of precision during all collocated measurement periods (Pearson R2 = 0.98 &minus; 0.99 across all sensors), with little drift. A sensor-specific correction factor was developed such that each sensor reported a comparable value. Sensors had a moderate degree of correlation with regulatory monitors during the study (R2 = 0.60 &minus; 0.68 at two sites). In a multi-linear regression model, the deviation between sensor and reference measurements of PM2.5 had the highest correlation with dew point and relative humidity. Sensor measurements were used to estimate the PM2.5 spatial variability, finding an average pairwise coefficient of divergence of 0.22 and a range of 0.14 to 0.33, indicating mostly homogeneous distributions. No significant difference in the average sensor PM concentrations between environmental justice (EJ) and non-EJ communities (p value = 0.24) was observed.",
+		"container-title": "Sensors",
+		"DOI": "10.3390/s19214701",
+		"issue": "21",
+		"language": "en",
+		"note": "number: 21\npublisher: Multidisciplinary Digital Publishing Institute",
+		"page": "4701",
+		"source": "www.mdpi.com",
+		"title": "Measuring Spatial and Temporal PM2.5 Variations in Sacramento, California, Communities Using a Network of Low-Cost Sensors",
+		"URL": "https://www.mdpi.com/1424-8220/19/21/4701",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Mukherjee",
+				"given": "Anondo"
+			},
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Pavlovic",
+				"given": "Nathan R."
+			},
+			{
+				"family": "Stanton",
+				"given": "Levi G."
+			},
+			{
+				"family": "Snyder",
+				"given": "Janice Lam"
+			},
+			{
+				"family": "D’Andrea",
+				"given": "Stephen"
+			},
+			{
+				"family": "Hafner",
+				"given": "Hilary R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/PUQARG29",
+		"type": "article-journal",
+		"container-title": "Journal of the Air & Waste Management Association",
+		"DOI": "10.1080/10962247.2014.907217",
+		"ISSN": "1096-2247, 2162-2906",
+		"issue": "9",
+		"journalAbbreviation": "Journal of the Air & Waste Management Association",
+		"language": "en",
+		"page": "1003-1012",
+		"source": "DOI.org (Crossref)",
+		"title": "Changes in air quality at near-roadway schools after a major freeway expansion in Las Vegas, Nevada",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/10962247.2014.907217",
+		"volume": "64",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "DeWinter",
+				"given": "Jennifer L."
+			},
+			{
+				"family": "Vaughn",
+				"given": "David L."
+			},
+			{
+				"family": "Roberts",
+				"given": "Paul T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					9,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/F96L4VS5",
+		"type": "article-journal",
+		"abstract": "In particulate matter (PM) nonattainment and maintenance areas, quantitative hot-spot analyses are required to assess air quality impacts of transportation projects that are identified as projects of local air quality concern (POAQC). In its 2006 rulemaking, the U.S. Environmental Protection Agency identified sample projects that would likely be POAQCs, including a new highway project with annual average daily traffic (AADT) greater than 125,000 and at least 8% diesel truck traffic. The objective of this study was to identify project characteristics that could reasonably exclude the project from consideration as a POAQC. Scenario analyses were performed for a hypothetical project that featured a new freeway with four mixed-flow lanes and baseline traffic activity of 125,000 AADT and 8% diesel truck traffic. The MO Vehicle Emission Simulator and the Emission FACtors models were used to quantify PM10 and PM2.5 emissions for a 2006 analysis and to evaluate the impact of fleet turnover and truck percentages on project-level emissions from 2006 to 2035. Fleet turnover effects sharply reduce project-level PM2.5 emissions over time. For an analysis year of 2015, impacts from a highway project with 125,000 AADT and 8% trucks are approximately 50% less than impacts from such a project in 2006. In contrast, fleet turnover effects do not substantially reduce PM10 emissions, since re-entrained road dust emissions and tire wear and brake wear emissions increasingly dominate project-level inventories over time, and these emissions vary little by analysis year.",
+		"container-title": "Transportation Research Record",
+		"DOI": "10.3141/2570-02",
+		"ISSN": "0361-1981",
+		"issue": "1",
+		"journalAbbreviation": "Transportation Research Record",
+		"language": "en",
+		"note": "publisher: SAGE Publications Inc",
+		"page": "12-20",
+		"source": "SAGE Journals",
+		"title": "Emissions Modeling with MOVES and EMFAC to Assess the Potential for a Transportation Project to Create Particulate Matter Hot Spots",
+		"URL": "https://doi.org/10.3141/2570-02",
+		"volume": "2570",
+		"author": [
+			{
+				"family": "Reid",
+				"given": "Stephen"
+			},
+			{
+				"family": "Bai",
+				"given": "Song"
+			},
+			{
+				"family": "Du",
+				"given": "Yuan"
+			},
+			{
+				"family": "Craig",
+				"given": "Kenneth"
+			},
+			{
+				"family": "Erdakos",
+				"given": "Garnet"
+			},
+			{
+				"family": "Baringer",
+				"given": "Lynn"
+			},
+			{
+				"family": "Eisinger",
+				"given": "Douglas"
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael"
+			},
+			{
+				"family": "Landsberg",
+				"given": "Karin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/3L6V6S49",
+		"type": "article-journal",
+		"container-title": "Environ. Man. J",
+		"page": "19–22",
+		"source": "Google Scholar",
+		"title": "Lessons learned from air toxics data: a national perspective",
+		"title-short": "Lessons learned from air toxics data",
+		"author": [
+			{
+				"family": "Kenski",
+				"given": "D."
+			},
+			{
+				"family": "Koerber",
+				"given": "M."
+			},
+			{
+				"family": "Hafner",
+				"given": "H. R."
+			},
+			{
+				"family": "McCarthy",
+				"given": "M. C."
+			},
+			{
+				"family": "Wheeler",
+				"given": "N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/E5NDAB7P",
+		"type": "article-journal",
+		"abstract": "Ambient air monitoring and phone survey data were collected in three environmental justice (EJ) and three non-EJ communities in Sacramento County during winter 2016&ndash;2017 to understand the differences in air toxics and in wood smoke pollution among communities. Concentrations of six hazardous air pollutants (HAPs) and black carbon (BC) from fossil fuel (BCff) were significantly higher at EJ communities versus non-EJ communities. BC from wood burning (BCwb) was significantly higher at non-EJ communities. Correlation analysis indicated that the six HAPs were predominantly from fossil fuel combustion sources, not from wood burning. The HAPs were moderately variable across sites (coefficient of divergence (COD) range of 0.07 for carbon tetrachloride to 0.28 for m- and p-xylenes), while BCff and BCwb were highly variable (COD values of 0.46 and 0.50). The BCwb was well correlated with levoglucosan (R2 of 0.68 to 0.95), indicating that BCwb was a robust indicator for wood burning. At the two permanent monitoring sites, wood burning comprised 29&ndash;39% of the fine particulate matter (PM2.5) on nights when PM2.5 concentrations were forecasted to be high. Phone survey data were consistent with study measurements; the only significant difference in the survey results among communities were that non-EJ residents burn with indoor devices more often than EJ residents.",
+		"container-title": "International Journal of Environmental Research and Public Health",
+		"DOI": "10.3390/ijerph17031080",
+		"issue": "3",
+		"language": "en",
+		"note": "number: 3\npublisher: Multidisciplinary Digital Publishing Institute",
+		"page": "1080",
+		"source": "www.mdpi.com",
+		"title": "Assessment of Ambient Air Toxics and Wood Smoke Pollution among Communities in Sacramento County",
+		"URL": "https://www.mdpi.com/1660-4601/17/3/1080",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "Lam Snyder",
+				"given": "Janice"
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Pavlovic",
+				"given": "Nathan R."
+			},
+			{
+				"family": "D’Andrea",
+				"given": "Stephen"
+			},
+			{
+				"family": "Hanson",
+				"given": "Joseph"
+			},
+			{
+				"family": "Sullivan",
+				"given": "Amy P."
+			},
+			{
+				"family": "Hafner",
+				"given": "Hilary R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/9DHI8SP7",
+		"type": "article-journal",
+		"abstract": "Transportation projects must undergo a transportation conformity hot-spot analysis if they are designated as projects of local air quality concern (POAQC). We examined particulate matter 2.5 µm in aerodynamic diameter or smaller (PM2.5) concentrations measured in 2017 from 48 near-road monitoring sites across the U.S. Annual average PM2.5 increments, the difference between near-road and background PM2.5, were between 0.1 ± 0.2 µg/m3 and 2.0 ± 0.2 µg/m3 for sites without noted confounding factor(s). The highest PM2.5 increment from monitors 10 or more meters from the roadway was 1.4 ± 0.2 µg/m3. Using modeled national average exhaust emissions, and associated near-road contribution to PM2.5, the upper bound of2.0 ± 0.2 µg/m3 isprojected to decrease 30% from 2017 to2040, for the types of highways assessed here, assuming a roadway with 8% heavy-duty vehicles and constant traffic volumes. These results can help inform transportation conformity POAQC designations.",
+		"container-title": "Transportation Research Part D: Transport and Environment",
+		"DOI": "10.1016/j.trd.2020.102442",
+		"ISSN": "1361-9209",
+		"journalAbbreviation": "Transportation Research Part D: Transport and Environment",
+		"language": "en",
+		"page": "102442",
+		"source": "ScienceDirect",
+		"title": "Influence of roadway emissions on near-road PM2.5: Monitoring data analysis and implications",
+		"title-short": "Influence of roadway emissions on near-road PM2.5",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1361920920306295",
+		"volume": "86",
+		"author": [
+			{
+				"family": "Mukherjee",
+				"given": "Anondo"
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "Huang",
+				"given": "ShihMing"
+			},
+			{
+				"family": "Landsberg",
+				"given": "Karin"
+			},
+			{
+				"family": "Eisinger",
+				"given": "Douglas S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/BM5RUTMT",
+		"type": "article-journal",
+		"abstract": "Modeling analyses were developed to evaluate near-road PM2.5 concentrations predicted by the AERMOD dispersion modeling chain under real-world conditions, and to assess the sensitivity of modeled near-road concentrations to the choice of dispersion model (AERMOD or CAL3QHCR), meteorological data, and travel data processing approach. We evaluate PM2.5 monitoring sites near major freeways in Indianapolis, Indiana (for 2016) and Providence, Rhode Island (for 2015–2016). The modeling analyses are built upon bottom-up estimates of temporally and spatially resolved roadway PM2.5 emissions based on traffic monitoring data and local vehicle fleet emission factors. The dispersion model simulations use local meteorological data collected at or close to the near-road monitoring sites. Predictions involved a modeling chain that included travel activity data processing, emissions modeling (MOVES and AP-42), and air quality dispersion modeling. We estimated the difference between PM2.5 concentrations at the near-road monitor and at nearby urban air quality monitoring sites (the measured near-road “increment”), and compared modeled results to the measured increments. Based on monitoring data, estimates of multi-day-averaged near-road PM2.5 increments were 0.9 ± 0.6 μg/m3 at Indianapolis and 1.4 ± 0.2 μg/m3 at Providence (where the uncertainty represents the 95% confidence interval on the mean value), and were comparable to measured PM2.5 increments at these sites in the near-road literature. Modeled roadway contributions to multi-day-averaged near-road concentrations substantially exceeded measured values based on the near-road monitoring data. The average near-road PM2.5 increment modeled with AERMOD was more than 300% (factor of four) larger than the measured increment at Indianapolis, and more than 500% (factor of six) larger than the measured increment at Providence. These biases reflect cumulative uncertainty throughout the near-road PM2.5 modeling chain. The emissions modeling component may have contributed to the modeling chain biases in two ways. First, the relative contribution of modeled non-exhaust emissions (PM2.5 brake wear, tire wear, and re-suspended road dust) compared to tailpipe exhaust emissions was higher than what has been documented in several published studies. Second, other research findings indicate that the U.S. EPA MOVES2014 model may over-predict tailpipe PM2.5 exhaust. The dispersion modeling component may have also contributed to the modeling chain biases. For example, when local meteorological data were used, AERMOD results were relatively insensitive to wind direction on a daily averaged basis; as a result, modeled concentrations exceeded measured values regardless of whether the near-road monitor was upwind or downwind of the roadway. In summary, this work provides a unique evaluation of PM2.5 concentrations predicted by the near-road modeling chain, and provides valuable information to understand potential sources of uncertainty in the near-road modeling process.",
+		"container-title": "Atmospheric Environment",
+		"DOI": "10.1016/j.atmosenv.2020.117775",
+		"ISSN": "1352-2310",
+		"journalAbbreviation": "Atmospheric Environment",
+		"language": "en",
+		"page": "117775",
+		"source": "ScienceDirect",
+		"title": "Modeled and measured near-road PM2.5 concentrations: Indianapolis and Providence cases",
+		"title-short": "Modeled and measured near-road PM2.5 concentrations",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1352231020305070",
+		"volume": "240",
+		"author": [
+			{
+				"family": "Craig",
+				"given": "Kenneth J."
+			},
+			{
+				"family": "Baringer",
+				"given": "Lynn M."
+			},
+			{
+				"family": "Chang",
+				"given": "Shih-Ying"
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Bai",
+				"given": "Song"
+			},
+			{
+				"family": "Seagram",
+				"given": "Annie F."
+			},
+			{
+				"family": "Ravi",
+				"given": "Vikram"
+			},
+			{
+				"family": "Landsberg",
+				"given": "Karin"
+			},
+			{
+				"family": "Eisinger",
+				"given": "Douglas S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/V4KFC7LI",
+		"type": "article-journal",
+		"abstract": "Air pollutant concentrations are often higher near major roadways than in the surrounding environments owing to emissions from on-road mobile sources. In this study, we quantified the gradient in black carbon (BC) and air toxics concentrations from the I-70 freeway in the Elyria-Swansea environmental justice neighborhood in Denver, Colorado, during three measurement campaigns in 2017–2018. The average hourly upwind-downwind gradient of BC concentrations from the roadway was 500–800 ng/m3, equal to an increment of approximately 30-80% above local background levels within 180 m of the freeway. When integrated over all wind directions, the gradients were smaller, approximately 150–300 ng/m3 ( 11-18%) over the course of nearly four months of measurements. No statistically significant gradient in air toxics (e.g., benzene, formaldehyde, etc.) was found, likely because the uncertainties in the mean concentrations were larger than the magnitude of the gradient (<25%). This finding is in contrast to some earlier studies in which small gradients of benzene and other VOCs were found. We estimate that sample sizes of at least 100 individual measurements would have been required to estimate mean concentrations with sufficient certainty to quantify gradients on the order of ±10% uncertainty. These gradient estimates are smaller than those found in previous studies over the past two decades; more stringent emissions standards, the local fleet age distribution, and/or the steady turnover of the vehicle fleet may be reducing the overall impact of roadway emissions on near-road communities. Implications: Gradients of near-road pollution may be declining in the near-road environment as tailpipe emissions from the vehicle fleet continue to decrease. Near-road concentration gradients of mobile source air toxics, including benzene, 1,3-butadiene, and ethylbenzene, will require higher sample sizes to quantify as emissions continue to decline.",
+		"container-title": "Journal of the Air & Waste Management Association",
+		"DOI": "10.1080/10962247.2020.1734113",
+		"ISSN": "1096-2247",
+		"issue": "2",
+		"note": "publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/10962247.2020.1734113\nPMID: 32091969",
+		"page": "231-246",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Assessment of mobile source air toxics in an Environmental Justice Denver community adjacent to a freeway",
+		"URL": "https://doi.org/10.1080/10962247.2020.1734113",
+		"volume": "71",
+		"author": [
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Mukherjee",
+				"given": "Anondo D."
+			},
+			{
+				"family": "Ogletree",
+				"given": "Michael"
+			},
+			{
+				"family": "Furst",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Gosselin",
+				"given": "Marie I."
+			},
+			{
+				"family": "Tigges",
+				"given": "Mark"
+			},
+			{
+				"family": "Thomas",
+				"given": "Gregg"
+			},
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					30
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/7770817/items/49FRPI7I",
+		"type": "article-journal",
+		"container-title": "Environ. Man. J",
+		"language": "en",
+		"page": "6",
+		"source": "Zotero",
+		"title": "Processes Influencing Ambient Concentrations Near Roadways",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Lurmann",
+				"given": "Fred"
+			},
+			{
+				"family": "Brown",
+				"given": "Steven G."
+			},
+			{
+				"family": "McCarthy",
+				"given": "Michael C."
+			},
+			{
+				"family": "Eisinger",
+				"given": "Douglas S."
+			},
+			{
+				"family": "Roberts",
+				"given": "Paul T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	}
+]
