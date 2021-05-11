@@ -18,6 +18,32 @@ community-scale monitoring, environmental justice
 - **Quality assurance**: Quality management plans (QMPs),  Quality assurance project plans (QAPPs), and automated QA/QC algorithms
 - **Training**: Statistics, R, atmospheric science, and community-monitoring
 
+
+```{r quals_processing, include=FALSE}
+library(readxl)
+library(tidyverse)
+#import and process Qualifications table
+quals_table <- read_excel('./images/quals.xlsx', sheet = 'RR_LLC') %>%
+  select(ProjectName,Contact, Year, 'Atmospheric Chemistry', 'Statistical Analysis',
+         'Monitoring and Network services', 'QA QC', 'Dashboard', 'Training', 'International') %>%
+  arrange(desc(Year))
+
+```
+
+```{r quals_table, layout="l-body-outset"}
+#Display qualifications table
+library(DT)
+DT::datatable(quals_table,
+  caption  = 'Table of qualifications - selected categories. Each category can be searched individually or in combination using the search box below the column name.',
+  rownames=FALSE,
+  options = list(autoWidth = FALSE, dom = 'tp',
+    pageLength = 10),
+  filter = list(position='top', clear=FALSE)) %>%
+  formatStyle(names(quals_table),
+    Color = styleEqual(c('x', NA), c('orange', 'white'))
+    )
+```
+
 ```{r, Cholla, out.width = '50%', fig.align = 'center'}
 knitr::include_graphics('images/Cholla.jpg')
 ```
