@@ -10,12 +10,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Radical Research LLC is Mike McCarthy's new business venture.  I am looking to 
-make a significant difference! What does that mean (other than the obvious pun)?
+make a significant difference! 
 
 I provide high quality science-based solutions to air quality challenges. Services 
-include study design, quality assurance, analysis, and data automation and 
-visualization.  I have experience with study and analysis design on local-to-national 
-spatial scales and diurnal-to-decadal temporal scales. 
+include study design, quality assurance, risk assessment, environmental justice, 
+data automation, and visualization.  I have experience with study and analysis 
+design on local-to-national spatial scales and diurnal-to-decadal temporal scales. 
 
 I hope to work with you in the future.  
 
