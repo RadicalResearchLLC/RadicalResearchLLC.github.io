@@ -4,7 +4,7 @@ base_url: https://www.radicalresarch.llc
 theme: r2llc.css
 description: |
   Radical Research LLC
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   logo: 
     image: images/Logo.png
