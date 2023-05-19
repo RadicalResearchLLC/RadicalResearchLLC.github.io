@@ -20,7 +20,7 @@ navbar:
  #     href: contactus2.html
     - text: 'Resume'
       href: resume.html
-#href: http://github.com/RadicalResearchLLC/
+href: http://github.com/RadicalResearchLLC/
   #output: 
   #  html_document: 
   #theme: united

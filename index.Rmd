@@ -8,11 +8,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Radical Research LLC (<span style='color: darkorange;'>R^2^</span>) is an environmental consulting providing custom data solutions in air quality, land-use planning, and environmental analysis. Choose <span style='color: darkorange;'>R^2^</span> to make a significant difference! 
+Radical Research LLC ([R^2^]{style="color: darkorange;"}) is an environmental consulting providing custom data solutions in air quality, land-use planning, and environmental analysis. Choose [R^2^]{style="color: darkorange;"} to make a significant difference!
 
-<span style='color: darkorange;'>R^2^</span> provides high quality science-based solutions to air quality challenges. Services 
-include study design, quality assurance, risk assessment, environmental justice, geospatial analysis, 
-data automation, spatial statistics, and visualization.  <span style='color: darkorange;'>R^2^</span> provides two decades of experience with in atmospheric chemistry focused on providing custom analysis and deployable and scalable solutions for. 
+[R^2^]{style="color: darkorange;"} provides high quality science-based solutions to air quality challenges. Services include study design, quality assurance, risk assessment, environmental justice, geospatial analysis, data automation, spatial statistics, and visualization. [R^2^]{style="color: darkorange;"} provides two decades of experience with in atmospheric chemistry focused on providing custom analysis and deployable and scalable solutions for.
 
 ```{r desert}
 knitr::include_graphics('images/Joshua_tree.jpg')

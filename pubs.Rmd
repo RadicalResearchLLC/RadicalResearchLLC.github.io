@@ -8,7 +8,6 @@ csl: elsevier-harvard.csl
 [My full peer-review publication list](https://scholar.google.com/citations?user=QcafrNIAAAAJ&hl=en) is available at [google scholar](https://scholar.google.com/).
 
 I'm happy to provide any articles upon request. 
-Don't hesitate to contact me @ MikeM@radicalresearch.llc
 
 Additional reports, memos, dashboards, apps, and training are 
 described under Services.

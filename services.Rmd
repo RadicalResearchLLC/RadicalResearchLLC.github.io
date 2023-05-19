@@ -62,7 +62,10 @@ quals_table %>%
   cols_align(
     columns = c(4:9),
     align = 'center'
-  )
+  ) |> 
+  opt_table_font(font = 'sans-serif', weight = 8) |> 
+  tab_options(table.align = 'left',
+    table.font.size = '90%')
   
   
 ```
