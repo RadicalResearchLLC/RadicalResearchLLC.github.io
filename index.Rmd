@@ -1,7 +1,6 @@
 ---
 title: "Welcome to Radical Research LLC!"
 description: |
-site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
@@ -9,15 +8,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Radical Research LLC is Mike McCarthy's new business venture.  I am looking to 
-make a significant difference! 
+Radical Research LLC (<span style='color: darkorange;'>R^2^</span>) is an environmental consulting providing custom data solutions in air quality, land-use planning, and environmental analysis. Choose <span style='color: darkorange;'>R^2^</span> to make a significant difference! 
 
-I provide high quality science-based solutions to air quality challenges. Services 
-include study design, quality assurance, risk assessment, environmental justice, 
-data automation, and visualization.  I have experience with study and analysis 
-design on local-to-national spatial scales and diurnal-to-decadal temporal scales. 
-
-I hope to work with you in the future.  
+<span style='color: darkorange;'>R^2^</span> provides high quality science-based solutions to air quality challenges. Services 
+include study design, quality assurance, risk assessment, environmental justice, geospatial analysis, 
+data automation, spatial statistics, and visualization.  <span style='color: darkorange;'>R^2^</span> provides two decades of experience with in atmospheric chemistry focused on providing custom analysis and deployable and scalable solutions for. 
 
 ```{r desert}
 knitr::include_graphics('images/Joshua_tree.jpg')

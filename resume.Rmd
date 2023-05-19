@@ -1,0 +1,102 @@
+---
+title: "Michael McCarthy, PhD"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(knitr)
+library(fontawesome)
+library(gt)
+library(readxl)
+
+source('CV_lists.R')
+
+```
+
+### Contact Info
+
+email - mikem@radicalresearch.llc 
+github - [github.com/RadicalResearchLLC](https://github.com/RadicalResearchLLC) 
+linkedin - [LinkedIn](https://www.linkedin.com/in/mike-mccarthy-7966964/) 
+
+
+## Summary
+
+Founder and Chief Scientist at the environmental consulting firm **Radical Research, LLC**. Adjunct Professor of Environmental Analysis at [Pitzer College](https://www.pitzer.edu/). Vice-chair of [Riverside Neighbors Opposing Warehouses](https://sites.google.com/view/rivnow/). I have 25 years of experience as an atmospheric scientist, 20 years of experience as an environmental consultant, and a little over a year of experience as a community activist and professor.  
+
+My atmospheric science expertise includes near-road pollution gradients, health-risk assessments, spatio-temporal variability, source apportionment, emissions characterization, climate change, air toxics, and isotopic compositions. I typically apply statistical analysis and geospatial visualization methods to quantify and characterize air quality issues. I also develop custom applications for the display and visualization of large and complex datasets.
+
+<hr> 
+## Work {.domain-header}
+#### Experience
+```{r, fig.align ='left'}
+work |> 
+  filter(Academic == 'No') |>
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |> 
+  select(title, organization, where, Time) |> 
+    rename(Title = title, Organization = organization, Where = where) |> 
+    gt() |> 
+     opt_table_font(font = 'sans-serif', weight = 8) |> 
+      tab_options(table.align = 'left',
+                 table.font.size = '90%')
+
+```
+<hr>
+#### Skills
+```{r}
+
+skills |> 
+    rename(Domain = area, Skills = skills) |> 
+    gt() |> 
+     opt_table_font(font = 'sans-serif', weight = 24) |> 
+     tab_options(table.align = 'left',
+                 table.font.size = '90%')
+
+```
+<hr>
+## Academia {.domain-header}
+#### Education
+```{r}
+
+edu |> 
+  filter(resume == 1) |> 
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |>
+  select(Degree, Institution, Where, Time) |>
+  gt() |> 
+     opt_table_font(font = 'sans-serif') |> 
+      tab_options(table.align = 'left',
+                 table.font.size = '90%')
+
+```
+
+<hr>
+#### Teaching Experience
+```{r}
+work |> 
+  filter(Academic == 'Yes') |>
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |> 
+  select(title, organization, where, Time) |> 
+    rename(Title = title, Organization = organization, Where = where) |> 
+    gt() |> 
+     opt_table_font(font = 'sans-serif') |> 
+      tab_options(table.align = 'left',
+                 table.font.size = '90%')
+ 
+```
+
+<hr>
+## Dashboards {.domain-header}
+### Applications
+
+- [Warehouse CITY](https://radicalresearch.shinyapps.io/WarehouseCITY/) - (2022 to Present)
+- [Air Toxics Dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/) - (2021)
+- [PM~2.5~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2018 to Present)
+- [Ozone Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/ozone_Dashboard/) - (2020 to Present)
+- [NO~2~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2020 to Present)
+- [NCore Dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/) - (2020 to Present)
+- [Annual Monitoring Network Report](https://radicalresearch.shinyapps.io/NetworkAssessment/) - Under Development
+
+
+
+

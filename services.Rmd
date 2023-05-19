@@ -3,47 +3,68 @@ title: "Services"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 ```
+
 -	**Atmospheric chemistry**: Hazardous air pollutants (air toxics), volatile 
 organic compounds (VOCs), speciated particulate matter, near-road pollution
--	**Interactive dashboard development**: R Shiny, Rmarkdown, and API development
+-	**Interactive dashboard development**: R Shiny, Rmarkdown, QMD, and API development
+    + [WarehouseCITY dashboard](https://radicalresearch.shinyapps.io/WarehouseCITY/)
+    + [AirToxics dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/)
     + [EPA NCore dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/)
     + [EPA PM FRM QA dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/)
     + [EPA ozone QA dashboard](https://sti-r-shiny.shinyapps.io/ozone_dashboard/)
 -	**Monitoring and network services**: Study design, network assessment, risk assessment,
 community-scale monitoring, environmental justice
-- **Statistical analysis**: Regressions, source apportionment, hypothesis testing, cluster analysis, trend analysis, time-series analysis, geospatial analysis/GIS, distributions, model building, data mining
+- **Statistical analysis**: Regressions, [source apportionment](https://www.fortair.org/wp-content/uploads/2022/04/Fort-Air-Partnership-Particulate-Matter-Speciation-Report-Final.html), hypothesis testing, cluster analysis, trend analysis, time-series analysis, geospatial analysis/GIS, distributions, model building, data mining
 - **Quality assurance**: Quality management plans (QMPs),  Quality assurance project plans (QAPPs), and automated QA/QC algorithms
-- **Training**: Statistics, R, atmospheric science, and community-monitoring
-
+- **Training**: Statistics, R, atmospheric science, spatial mapping, [environmental data visualization](https://mikem-radicalresearch.quarto.pub/environmental-data-visualization/), and community-monitoring
 
 ```{r quals_processing, include=FALSE}
+
 library(readxl)
 library(tidyverse)
 #import and process Qualifications table
 quals_table <- read_excel('./images/quals.xlsx', sheet = 'RR_LLC') %>%
-  select(ProjectName,Contact, Year, 'Atmospheric Chemistry', 'Statistical Analysis',
-         'Monitoring and Network services', 'QA QC', 'Dashboard', 'Training', 'International') %>%
+  select(ProjectName,Client, Year, 'Atmospheric Chemistry', 'Dashboard', 'Monitoring and Network services',
+         'Statistical Analysis',  'QA QC',  'Training') %>%
   arrange(desc(Year))
 
 ```
 
+<hr>
+
 ```{r quals_table, layout="l-body-outset"}
 #Display qualifications table
-library(DT)
-DT::datatable(quals_table,
-  caption  = 'Table of qualifications - selected categories. Each category can be searched individually or in combination using the search box below the column name.',
-  rownames=FALSE,
-  options = list(autoWidth = FALSE, dom = 'tp',
-    pageLength = 10),
-  filter = list(position='top', clear=FALSE)) %>%
-  formatStyle(names(quals_table),
-    Color = styleEqual(c('x', NA), c('orange', 'white'))
-    )
+library(gt)
+
+quals_table %>%
+  mutate_at(c(2,4:9), ~replace_na(.,'')) %>% 
+  gt() %>% 
+  
+  tab_header(
+    title = 'Qualifications Table'
+  ) %>% 
+  data_color(
+    columns = c(4:9),
+    method = 'factor',
+    palette = c('white', 'darkorange') 
+  ) %>% 
+  tab_style(
+    style = list(
+      cell_text(color = 'white', font = c('sans-serif', default_fonts()))
+    ),
+    locations = cells_body(
+      columns = c(4:9),
+      rows = everything()
+    ) 
+  ) %>% 
+  cols_align(
+    columns = c(4:9),
+    align = 'center'
+  )
+  
+  
 ```
 
-```{r, Cholla, out.width = '50%', fig.align = 'center'}
-knitr::include_graphics('images/Cholla.jpg')
-```
+
