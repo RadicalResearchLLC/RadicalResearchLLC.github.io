@@ -1,0 +1,443 @@
+---
+title: "Welcome to Radical Research LLC!"
+description: |
+---
+
+```{r setup6, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Radical Research LLC ([R^2^]{style="color: darkorange;"}) is an environmental consulting providing custom data solutions in air quality, land-use planning, and environmental analysis. Choose [R^2^]{style="color: darkorange;"} to make a significant difference!
+
+[R^2^]{style="color: darkorange;"} provides high quality science-based solutions to air quality challenges. Services include study design, quality assurance, risk assessment, environmental justice, geospatial analysis, data automation, spatial statistics, and visualization. [R^2^]{style="color: darkorange;"} provides two decades of experience with in atmospheric chemistry focused on providing custom analysis and deployable and scalable solutions for clients.
+
+```{r desert}
+knitr::include_graphics('images/Joshua_tree.jpg')
+```
+
+<!--chapter:end:index.Rmd-->
+
+---
+title: "Mike McCarthy, PhD"
+image: "images/JTree_mike2.jpg"
+links:
+  - label: LinkedIn
+    url: 'https://www.linkedin.com/in/mike-mccarthy-7966964/'
+  - label: GitHub
+    url: "https://github.com/RadicalResearchLLC"
+  - label: Email
+    url: "mailto:MikeM@radicalresearch.llc"
+output:
+  postcards::jolla
+---
+
+I earned a BS in Chemistry from Creighton University and my PhD in Atmospheric Chemistry at the University of California at Berkeley, where I measured and modeled stable isotopic compositions of the trace stratospheric gases CH~4~, CO~2~, and H~2~ to help constrain atmospheric greenhouse gas budgets.
+
+I have worked as an environmental consultant for over 20 years studying air quality at spatial scales from tens of feet to the entire globe. 
+
+
+
+<!--chapter:end:contactus2.Rmd-->
+
+---
+title: "Selected Publications"
+bibliography: bibliography.bib
+nocite: ' @* '
+csl: elsevier-harvard.csl
+---
+
+[My full peer-review publication list](https://scholar.google.com/citations?user=QcafrNIAAAAJ&hl=en) is available at [google scholar](https://scholar.google.com/).
+
+I'm happy to provide any articles upon request. 
+
+Additional reports, memos, dashboards, apps, and training are 
+described under Services.
+
+<!--chapter:end:pubs.Rmd-->
+
+---
+title: "Michael McCarthy, PhD"
+---
+
+```{r setup2, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(knitr)
+library(fontawesome)
+library(gt)
+library(readxl)
+
+source('CV_lists.R')
+
+```
+
+### Contact Info
+
+email - mikem@radicalresearch.llc 
+github - [github.com/RadicalResearchLLC](https://github.com/RadicalResearchLLC) 
+linkedin - [LinkedIn](https://www.linkedin.com/in/mike-mccarthy-7966964/) 
+
+
+## Summary
+
+Founder and Chief Scientist at the environmental consulting firm **Radical Research, LLC**. Adjunct Professor of Environmental Analysis at [Pitzer College](https://www.pitzer.edu/). Vice-chair of [Riverside Neighbors Opposing Warehouses](https://sites.google.com/view/rivnow/). I have 25 years of experience as an atmospheric scientist, 20 years of experience as an environmental consultant, and a little over a year of experience as a community activist and professor.  
+
+My atmospheric science expertise includes near-road pollution gradients, health-risk assessments, spatio-temporal variability, source apportionment, emissions characterization, climate change, air toxics, and isotopic compositions. I typically apply statistical analysis and geospatial visualization methods to quantify and characterize air quality issues. I also develop custom applications for the display and visualization of large and complex datasets. 
+
+<hr> 
+## Work {.domain-header}
+#### Experience
+```{r, fig.align ='left'}
+work |> 
+  filter(Academic == 'No') |>
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |> 
+  select(title, organization, where, Time) |> 
+    rename(Title = title, Organization = organization, Where = where) |> 
+    gt() |> 
+     opt_table_font(font = 'sans-serif', weight = 8) |> 
+      tab_options(table.align = 'left',
+                 table.font.size = '90%')
+
+```
+<hr>
+#### Skills
+```{r}
+
+skills |> 
+    rename(Domain = area, Skills = skills) |> 
+    gt() |> 
+     opt_table_font(font = 'sans-serif', weight = 24) |> 
+     tab_options(table.align = 'left',
+                 table.font.size = '90%')
+
+```
+<hr>
+## Academia {.domain-header}
+#### Education
+```{r}
+
+edu |> 
+  filter(resume == 1) |> 
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |>
+  select(Degree, Institution, Where, Time) |>
+  gt() |> 
+     opt_table_font(font = 'sans-serif') |> 
+      tab_options(table.align = 'left',
+                 table.font.size = '90%')
+
+```
+
+<hr>
+#### Teaching Experience
+```{r}
+work |> 
+  filter(Academic == 'Yes') |>
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |> 
+  select(title, organization, where, Time) |> 
+    rename(Title = title, Organization = organization, Where = where) |> 
+    gt() |> 
+     opt_table_font(font = 'sans-serif') |> 
+      tab_options(table.align = 'left',
+                 table.font.size = '90%')
+ 
+```
+
+<hr>
+## Dashboards {.domain-header}
+### Applications
+
+- [Warehouse CITY](https://radicalresearch.shinyapps.io/WarehouseCITY/) - (2022 to Present)
+- [Air Toxics Dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/) - (2021)
+- [PM~2.5~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2018 to Present)
+- [Ozone Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/ozone_Dashboard/) - (2020 to Present)
+- [NO~2~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2020 to Present)
+- [NCore Dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/) - (2020 to Present)
+- [Annual Monitoring Network Report](https://radicalresearch.shinyapps.io/NetworkAssessment/) - Under Development
+
+<!--chapter:end:resume.Rmd-->
+
+---
+title: "Resume"
+bibliography: bibliography.bib
+---
+
+```{r setup3, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(knitr)
+library(fontawesome)
+library(gt)
+library(readxl)
+
+source('CV_lists.R')
+
+```
+
+### Contact Info
+
+- <i class="fa fa-envelope"></i> mikem@radicalresearch.llc
+- <i class="fa fa-github"></i> [github.com/RadicalResearchLLC](https://github.com/RadicalResearchLLC)
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mike-mccarthy-7966964/)
+- For more information, please contact me via email.
+
+## Summary
+
+Founder and Chief Scientist at the environmental consulting firm **Radical Research, LLC**. Adjunct Professor of Environmental Analysis at [Pitzer College](https://www.pitzer.edu/). Vice-chair of [Riverside Neighbors Opposing Warehouses](https://sites.google.com/view/rivnow/). I have 25 years of experience as an atmospheric scientist, 20 years of experience as an environmental consultant, and a little over a year of experience as a community activist and professor.  
+
+My atmospheric science expertise includes near-road pollution gradients, health-risk assessments, spatio-temporal variability, source apportionment, emissions characterization, climate change, air toxics, and isotopic compositions. I typically apply statistical analysis and geospatial visualization methods to quantify and characterize air quality issues. I also develop custom applications for the display and visualization of large and complex datasets.
+
+## Work {.domain-header}
+### Experience
+```{r}
+work |> 
+  filter(Academic == 'No') |>
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |> 
+  select(title, organization, where, Time) |> 
+    rename(Title = title, Organization = organization, Where = where) |> 
+    gt()
+
+```
+
+### Skills
+```{r}
+
+skills |> 
+    rename(Domain = area, Skills = skills) |> 
+    gt()
+
+```
+
+## Academia {.domain-header}
+### Education
+```{r}
+
+edu |> 
+  filter(resume == 1) |> 
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |>
+  select(Degree, Institution, Where, Time) |>
+  gt()
+
+```
+
+
+### Teaching Experience
+```{r}
+work |> 
+  filter(Academic == 'Yes') |>
+  mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |> 
+  select(title, organization, where, Time) |> 
+    rename(Title = title, Organization = organization, Where = where) |> 
+    gt()
+
+```
+
+## Dashboards {.domain-header}
+### Applications
+
+- [Warehouse CITY](https://radicalresearch.shinyapps.io/WarehouseCITY/) - (2022 to Present)
+- [Air Toxics Dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/) - (2021)
+- [PM~2.5~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2018 to Present)
+- [Ozone Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/ozone_Dashboard/) - (2020 to Present)
+- [NO~2~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2020 to Present)
+- [NCore Dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/) - (2020 to Present)
+- [Annual Monitoring Network Report](https://radicalresearch.shinyapps.io/NetworkAssessment/) - Under Development
+
+
+
+
+
+<!--chapter:end:resume_test.Rmd-->
+
+---
+title: "Resume"
+output:
+  html_document:
+    css: css/website-cv.css
+    toc: true
+    toc_float: true
+---
+
+```{r setup4, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(fontawesome)
+library(pagedown)
+```
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> mikem@radicalresearch.llc
+- <i class="fa fa-github"></i> [github.com/RadicalResearchLLC](https://github.com/RadicalResearchLLC)
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mike-mccarthy-7966964/)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Atmospheric chemistry - Hazardous air pollutants, Speciated particulate matter, Speciated VOCs, Health risk assessment, photo-chemistry, kinetics, land-use regression, emissions modeling, model validation
+
+- Programming, Dashboard, and Visualization languages - R, SQL, BASH, R Markdown, LATEX, R Shiny, GIS, SQL, Tidyverse, Oracle
+
+- Quality Assurance - QAPPs, QMPs, DQOs, SOPs, Audits, Verifications, Blanks, QC-Checks, Precision, Bias, Drift, Sensitivity
+
+- Statistical Analysis - Regressions, Source Apportionment, Factor Analysis, Time-series Analysis, Signficance Testing, Distributions, Machine-learning, Kernel-density estimations, hot-spot analysis
+
+- Network and Monitoring Services - Collocation Comparisons, Network Assessments, Community-scale Monitoring, Environmental Justice
+
+- Litigation Support - please contact for details
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Michael McCarthy {#title}
+--------------------------------------------------------------------------------
+
+## Summary
+
+Founder and Chief Scientist at the environmental consulting firm Radical Research, LLC. Adjunct Professor of Environmental Analysis at Pitzer College. Vice-chair of Riverside Neighbors Opposing Warehouses. I have 25 years of experience as an atmospheric scientist, 20 years of experience as an environmental consultant, and a little over a year of experience as a community activist and professor.  
+
+My atmospheric science expertise includes near-road pollution gradients, health-risk assessments, spatio-temporal variability, source apportionment, emissions characterization, climate change, air toxics, and isotopic compositions. I typically apply statistical analysis and geospatial visualization methods to quantify and characterize air quality issues. I also develop custom applications for the display and visualization of large and complex datasets.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Creighton University
+
+BS in Chemistry
+
+Omaha, Nebraska
+
+1998
+
+### University of California at Berkeley
+
+PhD in Chemistry 
+
+Berkeley, California
+
+2003
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Founder
+
+Radical Research, LLC
+
+Riverside, CA
+
+2021 - Present
+
+### Adjunct Professor 
+
+Environmental Analysis Field Group, Pitzer College
+
+Claremont, CA
+
+2022 - Present
+
+### Sr. Atmospheric Scientist
+
+Sonoma Techology, Inc.
+
+Petaluma, CA
+
+2005 - 2021
+
+### Air Quality Analyst
+
+Sonoma Techology, Inc.
+
+Petaluma, CA
+
+2005 - 2021
+
+
+<!--chapter:end:resume2.Rmd-->
+
+---
+title: "Services"
+---
+
+```{r setup5, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+-	**Atmospheric chemistry**: Hazardous air pollutants (air toxics), volatile 
+organic compounds (VOCs), speciated particulate matter, near-road pollution
+-	**Interactive dashboard development**: R Shiny, Rmarkdown, QMD, and API development
+    + [WarehouseCITY dashboard](https://radicalresearch.shinyapps.io/WarehouseCITY/)
+    + [AirToxics dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/)
+    + [EPA NCore dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/)
+    + [EPA PM FRM QA dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/)
+    + [EPA ozone QA dashboard](https://sti-r-shiny.shinyapps.io/ozone_dashboard/)
+-	**Monitoring and network services**: Study design, network assessment, risk assessment,
+community-scale monitoring, environmental justice
+- **Statistical analysis**: Regressions, [source apportionment](https://www.fortair.org/wp-content/uploads/2022/04/Fort-Air-Partnership-Particulate-Matter-Speciation-Report-Final.html), hypothesis testing, cluster analysis, trend analysis, time-series analysis, geospatial analysis/GIS, distributions, model building, data mining
+- **Quality assurance**: Quality management plans (QMPs),  Quality assurance project plans (QAPPs), and automated QA/QC algorithms
+- **Training**: Statistics, R, atmospheric science, spatial mapping, [environmental data visualization](https://mikem-radicalresearch.quarto.pub/environmental-data-visualization/), and community-monitoring
+
+```{r quals_processing, include=FALSE}
+
+library(readxl)
+library(tidyverse)
+#import and process Qualifications table
+quals_table <- read_excel('./images/quals.xlsx', sheet = 'RR_LLC') %>%
+  select(ProjectName,Client, Year, 'Atmospheric Chemistry', 'Dashboard', 'Monitoring and Network services',
+         'Statistical Analysis',  'QA QC',  'Training') %>%
+  arrange(desc(Year))
+
+```
+
+<hr>
+
+```{r quals_table, layout="l-body-outset"}
+#Display qualifications table
+library(gt)
+
+quals_table %>%
+  mutate_at(c(2,4:9), ~replace_na(.,'')) %>% 
+  gt() %>% 
+  
+  tab_header(
+    title = 'Qualifications Table'
+  ) %>% 
+  data_color(
+    columns = c(4:9),
+    method = 'factor',
+    palette = c('white', 'darkorange') 
+  ) %>% 
+  tab_style(
+    style = list(
+      cell_text(color = 'white', font = c('sans-serif', default_fonts()))
+    ),
+    locations = cells_body(
+      columns = c(4:9),
+      rows = everything()
+    ) 
+  ) %>% 
+  cols_align(
+    columns = c(4:9),
+    align = 'center'
+  ) |> 
+  opt_table_font(font = 'sans-serif', weight = 8) |> 
+  tab_options(table.align = 'left',
+    table.font.size = '90%')
+  
+  
+```
+
+
+
+<!--chapter:end:services.Rmd-->
+
