@@ -1,0 +1,118 @@
+---
+title: "Resume"
+output:
+  html_document:
+    css: css/website-cv.css
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(fontawesome)
+library(pagedown)
+```
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> mikem@radicalresearch.llc
+- <i class="fa fa-github"></i> [github.com/RadicalResearchLLC](https://github.com/RadicalResearchLLC)
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mike-mccarthy-7966964/)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Atmospheric chemistry - Hazardous air pollutants, Speciated particulate matter, Speciated VOCs, Health risk assessment, photo-chemistry, kinetics, land-use regression, emissions modeling, model validation  
+
+- Programming, Dashboard, and Visualization languages - R, SQL, BASH, R Markdown, LATEX, R Shiny, GIS, SQL, Tidyverse, Oracle
+
+- Quality Assurance - QAPPs, QMPs, DQOs, SOPs, Audits, Verifications, Blanks, QC-Checks, Precision, Bias, Drift, Sensitivity
+
+- Statistical Analysis - Regressions, Source Apportionment, Factor Analysis, Time-series Analysis, Signficance Testing, Distributions, Machine-learning, Kernel-density estimations, hot-spot analysis
+
+- Network and Monitoring Services - Collocation Comparisons, Network Assessments, Community-scale Monitoring, Environmental Justice
+
+- Litigation Support - please contact me for details
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Michael McCarthy {#title}
+--------------------------------------------------------------------------------
+
+## Summary
+
+Founder and Chief Scientist at the environmental consulting firm Radical Research, LLC. Adjunct Professor of Environmental Analysis at Pitzer College. Vice-chair of Riverside Neighbors Opposing Warehouses. I have 25 years of experience as an atmospheric scientist, 20 years of experience as an environmental consultant, and a little over a year of experience as a community activist and professor.  
+
+My atmospheric science expertise includes near-road pollution gradients, health-risk assessments, spatio-temporal variability, source apportionment, emissions characterization, climate change, air toxics, and isotopic compositions. I typically apply statistical analysis and geospatial visualization methods to quantify and characterize air quality issues. I also develop custom applications for the display and visualization of large and complex datasets.
+
+I am excited 
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Creighton University
+
+BS in Chemistry
+
+Omaha, Nebraska
+
+1998
+
+### University of California at Berkeley
+
+PhD in Chemistry 
+
+Berkeley, California
+
+2003
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Founder
+
+Radical Research, LLC
+
+Riverside, CA
+
+2021 - Present
+
+### Adjunct Professor 
+
+Environmental Analysis Field Group, Pitzer College
+
+Claremont, CA
+
+2022 - Present
+
+### Sr. Atmospheric Scientist
+
+Sonoma Techology, Inc.
+
+Petaluma, CA
+
+2005 - 2021
+
+### Air Quality Analyst
+
+Sonoma Techology, Inc.
+
+Petaluma, CA
+
+2005 - 2021
+

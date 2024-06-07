@@ -31,7 +31,6 @@ awards <- tribble(
   "Barry Goldwater Scholarship 1997-1998", 'August', "1997", 'May', "1998", "Creighton University", "Omaha, Nebraska", 
 )
 
-
 work <- tribble(
   ~title, ~organization, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~Academic,
   'Founder', 'Radical Research LLC', 'March', '2021',               
