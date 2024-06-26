@@ -1,7 +1,7 @@
 ---
 title: "Michael McCarthy, PhD"
-output:
-  pdf_document: default
+#output:
+#  pdf_document: default
   #word_document: default
 ---
 
@@ -107,6 +107,7 @@ work |>
 ### Applications
 
 -   [Warehouse CITY](https://radicalresearch.shinyapps.io/WarehouseCITY/) - (2022 to Present)
+-   [Annual Monitoring Network Plan Dashboard](https://radicalresearch.shinyapps.io/NetworkAssessment/)(2023 to present)
 -   [Air Toxics Dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/) - (2021)
 -   [PM~2.5~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2018 to Present)
 -   [Ozone Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/ozone_Dashboard/) - (2020 to Present)

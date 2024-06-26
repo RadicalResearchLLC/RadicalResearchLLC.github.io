@@ -41,3 +41,4 @@ work <- tribble(
   'Petaluma, California', 'No',
   'Air Quality Analyst', 'Sonoma Technology, Inc.', 'October', '2003', 'December', '2005', 'Petaluma, California', 'No'
 )
+

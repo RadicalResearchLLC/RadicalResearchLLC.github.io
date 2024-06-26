@@ -10,12 +10,13 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 organic compounds (VOCs), speciated particulate matter, near-road pollution
 -	**Interactive dashboard development**: R Shiny, Rmarkdown, QMD, and API development
     + [WarehouseCITY dashboard](https://radicalresearch.shinyapps.io/WarehouseCITY/)
+    + [EPA Annual Monitoring Network Plan Assessment](https://radicalresearch.shinyapps.io/NetworkAssessment/)
     + [AirToxics dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/)
     + [EPA NCore dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/)
     + [EPA PM FRM QA dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/)
     + [EPA ozone QA dashboard](https://sti-r-shiny.shinyapps.io/ozone_dashboard/)
 -	**Monitoring and network services**: Study design, network assessment, risk assessment,
-community-scale monitoring, environmental justice
+community-scale monitoring, environmental justice, and litigation support
 - **Statistical analysis**: Regressions, [source apportionment](https://www.fortair.org/wp-content/uploads/2022/04/Fort-Air-Partnership-Particulate-Matter-Speciation-Report-Final.html), hypothesis testing, cluster analysis, trend analysis, time-series analysis, geospatial analysis/GIS, distributions, model building, data mining
 - **Quality assurance**: Quality management plans (QMPs),  Quality assurance project plans (QAPPs), and automated QA/QC algorithms
 - **Training**: Statistics, R, atmospheric science, spatial mapping, [environmental data visualization](https://mikem-radicalresearch.quarto.pub/environmental-data-visualization/), and community-monitoring
@@ -25,7 +26,7 @@ community-scale monitoring, environmental justice
 library(readxl)
 library(tidyverse)
 #import and process Qualifications table
-quals_table <- read_excel('./images/quals.xlsx', sheet = 'RR_LLC') %>%
+quals_table <- read_excel('./images/quals2.xlsx', sheet = 'RR_LLC') %>%
   select(ProjectName,Client, Year, 'Atmospheric Chemistry', 'Dashboard', 'Monitoring and Network services',
          'Statistical Analysis',  'QA QC',  'Training') %>%
   arrange(desc(Year))
