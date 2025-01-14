@@ -73,7 +73,7 @@ skills |>
 edu |> 
   filter(resume == 1) |> 
   mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |>
-  select(Degree, Institution, Where, Time, advisor) |>
+  select(Degree, Institution, Where, Time, Advisor) |>
   gt() |> 
      opt_table_font(font = 'sans-serif') |> 
       tab_options(table.align = 'left',
@@ -116,8 +116,5 @@ work |>
 
 <hr> 
 
-## Publications {.domain-header}
-
-### Peer-reviewed articles
 
 
