@@ -73,7 +73,7 @@ skills |>
 edu |> 
   filter(resume == 1) |> 
   mutate(Time = glue::glue("{startMonth} {startYear} -- {endMonth} {endYear}",.na = '')) |>
-  select(Degree, Institution, Where, Time) |>
+  select(Degree, Institution, Where, Time, advisor) |>
   gt() |> 
      opt_table_font(font = 'sans-serif') |> 
       tab_options(table.align = 'left',
@@ -104,7 +104,7 @@ work |>
 
 ## Dashboards {.domain-header}
 
-### Applications
+### Selected Applications
 
 -   [Warehouse CITY](https://radicalresearch.shinyapps.io/WarehouseCITY/) - (2022 to Present)
 -   [Annual Monitoring Network Plan Dashboard](https://radicalresearch.shinyapps.io/NetworkAssessment/)(2023 to present)
@@ -113,4 +113,11 @@ work |>
 -   [Ozone Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/ozone_Dashboard/) - (2020 to Present)
 -   [NO~2~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2020 to Present)
 -   [NCore Dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/) - (2020 to Present)
--   [Annual Monitoring Network Report](https://radicalresearch.shinyapps.io/NetworkAssessment/) - Under Development
+
+<hr> 
+
+## Publications {.domain-header}
+
+### Peer-reviewed articles
+
+

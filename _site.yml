@@ -20,6 +20,8 @@ navbar:
  #     href: contactus2.html
     - text: 'Resume'
       href: resume.html
+    - text: 'Teaching'
+      href: teaching.html
 href: http://github.com/RadicalResearchLLC/
   #output: 
   #  html_document: 

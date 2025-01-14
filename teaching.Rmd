@@ -1,0 +1,17 @@
+---
+  title: "Teaching"
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+Radical Research LLC has developed and taught a course on Environmental Data Visualization in the Environmental Analysis Field Group at [Pitzer College](https:://www.pitzer.edu).
+
+The course materials for the Fall 2024 are available at [https://radicalresearch.llc/EA078_Fall2024/](https://radicalresearch.llc/EA078_Fall2024/). Course materials in quarto markdown are also available on [github](https://github.com/RadicalResearchLLC/EA078_Fall2024).
+
+In this course, student scholars are taught to import, manipulate, and visualize data using R, with hands-on examples. Student scholars also learn the theory and ethics of environmental data visualization. Throughout the course, students practice and apply the skills and judgment of data visualization to provide effective illustrations of real-world data in order to persuade, inform, and communicate.
+
+
+
+
