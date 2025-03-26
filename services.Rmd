@@ -16,7 +16,7 @@ organic compounds (VOCs), speciated particulate matter, near-road pollution
     + [EPA PM FRM QA dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/)
     + [EPA ozone QA dashboard](https://sti-r-shiny.shinyapps.io/ozone_dashboard/)
 -	**Monitoring and network services**: Study design, network assessment, risk assessment,
-community-scale monitoring, environmental justice, and litigation support
+community-scale monitoring, community engagement, fugitive dust, and litigation support
 - **Statistical analysis**: Regressions, [source apportionment](https://www.fortair.org/wp-content/uploads/2022/04/Fort-Air-Partnership-Particulate-Matter-Speciation-Report-Final.html), hypothesis testing, cluster analysis, trend analysis, time-series analysis, geospatial analysis/GIS, distributions, model building, data mining
 - **Quality assurance**: Quality management plans (QMPs),  Quality assurance project plans (QAPPs), and automated QA/QC algorithms
 - **Training**: Statistics, R, atmospheric science, spatial mapping, [environmental data visualization](https://mikem-radicalresearch.quarto.pub/environmental-data-visualization/), and community-monitoring
