@@ -107,7 +107,7 @@ work |>
 ### Selected Applications
 
 -   [Warehouse CITY](https://radicalresearch.shinyapps.io/WarehouseCITY/) - (2022 to Present)
--   [Annual Monitoring Network Plan Dashboard](https://radicalresearch.shinyapps.io/NetworkAssessment/)(2023 to present)
+-   [Annual Monitoring Network Plan Dashboard](https://rconnect-public.epa.gov/AMNP_Dashboard/) - (2023 to present)
 -   [Air Toxics Dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/) - (2021)
 -   [PM~2.5~ Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/) - (2018 to Present)
 -   [Ozone Data Quality Dashboard](https://sti-r-shiny.shinyapps.io/ozone_Dashboard/) - (2020 to Present)

@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 organic compounds (VOCs), speciated particulate matter, near-road pollution
 -	**Interactive dashboard development**: R Shiny, Rmarkdown, QMD, and API development
     + [WarehouseCITY dashboard](https://radicalresearch.shinyapps.io/WarehouseCITY/)
-    + [EPA Annual Monitoring Network Plan Assessment](https://radicalresearch.shinyapps.io/NetworkAssessment/)
+    + [EPA Annual Monitoring Network Plan Dashboard](https://rconnect-public.epa.gov/AMNP_Dashboard/)
     + [AirToxics dashboard](https://radicalresearch.shinyapps.io/ToxicsDashboard/)
     + [EPA NCore dashboard](https://sti-r-shiny.shinyapps.io/NCORE_Dashboard/)
     + [EPA PM FRM QA dashboard](https://sti-r-shiny.shinyapps.io/QVA_Dashboard/)
